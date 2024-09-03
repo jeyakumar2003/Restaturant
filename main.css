@@ -53,9 +53,21 @@ body{
 .title{
     color: #FABC19;
     font-family: "Sacramento", cursive;
+    text-shadow: 2px 2px 5px #FABC19;
 }
 
 
 .title1{
     color: #FABC19;
+}
+
+
+/* hover effects */
+.chef1.card:hover{
+    background-color: #FABC19;
+    scrollbar-width: 10px;
+}
+
+.chef2.card:hover{
+    background-color: #fa3b19;
 }
