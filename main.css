@@ -9,6 +9,9 @@ body{
     background-size: cover;
 }
 
+.navbar-toggler{
+    background-color:#FABC19;
+}
 .main-color{
     background-color: rgba(0, 0, 0, 0.637);
 }
